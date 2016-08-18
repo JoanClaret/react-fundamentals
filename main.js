@@ -34,6 +34,7 @@ import App from './exercises/01-Setup';
  * 04 - Component state basics
  *
  * Description:
+ *
  * State is used for properties on a component that will change, versus static
  * properties that are passed in. This lesson will introduce you to taking
  * input within your React components.
@@ -59,7 +60,7 @@ import App from './exercises/01-Setup';
  **/
 
 /**
- * 06 - Using Refs to Access Components
+ * 06 - Using Refs to access components
  *
  * Description:
  * When you are using React components you need to be able to access specific
@@ -73,7 +74,7 @@ import App from './exercises/01-Setup';
  **/
 
 /**
- * 07 - Accessing Child properties
+ * 07 - Accessing child properties
  *
  * Description:
  * When you're building your React components, you'll probably want to access
@@ -102,7 +103,7 @@ import App from './exercises/01-Setup';
  **/
 
 /**
- * 09 - Higher Order Components
+ * 09 - Higher order components
  *
  * Description:
  * Higher order components will allow you to apply behaviors to multiple React
