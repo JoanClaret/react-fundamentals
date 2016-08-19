@@ -25,7 +25,7 @@ $ open http://localhost:3333/
 - [10 - Sending values between components](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/10-Sending-values-between-components.js)
 
 ### Switching between lessons
-Once you has executed the "Getting started" commands, edit `main.js` file and uncomment the import line of the lesson you want to preview in the browser:
+Once you has executed the "Getting started" commands, edit [main.js](https://github.com/JoanClaret/react-fundamentals/blob/master/main.js) file and uncomment the import line of the lesson you want to preview in the browser:
 
 ```javascript
 // import App from './exercises/01-Setup';
