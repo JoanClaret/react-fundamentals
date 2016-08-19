@@ -1,6 +1,5 @@
 # React fundamentals
 Exercises of react fundamentals.
-Disclaimer: At this time there are only lessons from [Egghead](https://github.com/joemaddalone/egghead-react-fundamentals-es6), but i'll add from other repos. Feel free to contribute if you want.
 
 ## Getting started
 
@@ -23,6 +22,7 @@ $ open http://localhost:3333/
 - [07 - Accessing child properties](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/07-Child-properties.js)
 - [08 - Mounting and unmounting](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/08-Mounting-unmounting.js)
 - [09 - Higher order components](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/09-Higher-order-components.js)
+- [10 - Sending values between components](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/10-Sending-values-between-components.js)
 
 ### Switching between lessons
 Once you has executed the "Getting started" commands, edit `main.js` file and uncomment the import line of the lesson you want to preview in the browser:

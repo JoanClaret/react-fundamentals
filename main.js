@@ -115,3 +115,13 @@ import App from './exercises/01-Setup';
  * Exercise code:
  * import App from './exercises/09-Higher-order-components';
  **/
+
+/**
+ * 10 - Sending values between components
+ *
+ * Description:
+ * Sending a value from component to component without using refs
+ *
+ * Exercise code:
+ * import App from './exercises/10-Sending-values-between-components';
+ **/
