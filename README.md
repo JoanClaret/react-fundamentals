@@ -23,8 +23,9 @@ $ open http://localhost:3333/
 - [08 - Mounting and unmounting](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/08-Mounting-unmounting.js)
 - [09 - Higher order components](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/09-Higher-order-components.js)
 - [10 - Sending values between components](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/10-Sending-values-between-components.js)
+- [11 - Toggle class](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/11-Toggle-class.js)
 
-### Switching between lessons
+### Switching between exercises
 Once you has executed the "Getting started" commands, edit [main.js](https://github.com/JoanClaret/react-fundamentals/blob/master/main.js) file and uncomment the import line of the lesson you want to preview in the browser:
 
 ```javascript
