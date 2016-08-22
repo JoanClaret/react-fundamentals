@@ -17,7 +17,7 @@ $ open http://localhost:3333/
 - [02 - Component](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/02-Component.js)
 - [03 - Component properties](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/03-Component-properties.js)
 - [04 - Component state basics](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/04-Component-state.js)
-    - [04.1 - Toggle class](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/11-Toggle-class.js)
+    - [04.1 - Toggle class](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/04.1-Toggle-class.js)
 - [05 - Component owner-ownee relationship](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/05-Component-owner-ownee.js)
 - [06 - Using Refs to access components](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/06-Component-using-refs.js)
 - [07 - Accessing child properties](https://github.com/JoanClaret/react-fundamentals/blob/master/exercises/07-Child-properties.js)
