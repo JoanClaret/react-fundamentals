@@ -46,6 +46,18 @@ import App from './exercises/01-Setup';
  * import App from './exercises/04-Component-state';
  **/
 
+
+ /**
+ * 04.1 - Toggle Class
+ *
+ * Description:
+ * Using State to toggle class in a component
+ *
+ * Exercise code:
+ * import App from './exercises/11-Toggle-class';
+ **/
+
+
 /**
  * 05 - Component owner-ownee relationship
  *
@@ -126,12 +138,3 @@ import App from './exercises/01-Setup';
  * import App from './exercises/10-Sending-values-between-components';
  **/
 
- /**
- * 11 - Toggle Class
- *
- * Description:
- * Using State to toggle class in a component
- *
- * Exercise code:
- * import App from './exercises/11-Toggle-class';
- **/
