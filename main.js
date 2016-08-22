@@ -54,7 +54,7 @@ import App from './exercises/01-Setup';
  * Using State to toggle class in a component
  *
  * Exercise code:
- * import App from './exercises/11-Toggle-class';
+ * import App from './exercises/04.1-Toggle-class.js';
  **/
 
 
