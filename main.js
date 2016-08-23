@@ -147,3 +147,22 @@ import App from './exercises/01-Setup';
  * Exercise code:
  * import App from './exercises/11-Toggle-between-components';
  **/
+
+ /**
+ * 12 - Routing
+ *
+ * Description:
+ * React Router keeps your UI in sync with the URL. It has a simple API with
+ * powerful features like lazy code loading, dynamic route matching, and
+ * location transition handling built right in. Make the URL your first
+ * thought, not an after-thought.
+ *
+ * Dev dependencies:
+ * Install "react-router" npm package as dependency: `npm i react-router --save`
+ *
+ * Documentation:
+ * https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669
+ *
+ * Exercise code:
+ * import App from './exercises/12-Routing';
+ **/
