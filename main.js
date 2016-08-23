@@ -138,3 +138,12 @@ import App from './exercises/01-Setup';
  * import App from './exercises/10-Sending-values-between-components';
  **/
 
+ /**
+ * 11 - Toggle class Between components
+ *
+ * Description:
+ * Toggle class between componets
+ *
+ * Exercise code:
+ * import App from './exercises/11-Toggle-between-components';
+ **/
