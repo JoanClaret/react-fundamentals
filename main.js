@@ -138,7 +138,7 @@ import App from './exercises/01-Setup';
  * import App from './exercises/10-Sending-values-between-components';
  **/
 
- /**
+/**
  * 11 - Toggle class Between components
  *
  * Description:
@@ -149,7 +149,26 @@ import App from './exercises/01-Setup';
  **/
 
  /**
- * 12 - Routing
+ * 12 - Filter list
+ *
+ * In React, application data flows unidirectionally via the state and props
+ * objects, as opposed to the two-way binding of libraries like Angular. This
+ * means that, in a multi component heirachy, a common parent component should
+ * manage the state and pass it down the chain via props.
+ * Your state should be updated using the setState method to ensure that a UI
+ * refresh will occur, if necessary. The resulting values should be passed down
+ * to child components using attributes that are accessible in said children
+ * via this.props. See this example that shows this concept in practice
+ *
+ * Documentation:
+ * https://scotch.io/tutorials/learning-react-getting-started-and-concepts#unidirectional-data-flow
+ *
+ * Exercise code:
+ * import App from './exercises/12-Filter-list';
+ **/
+
+/**
+ * 13 - Routing
  *
  * Description:
  * React Router keeps your UI in sync with the URL. It has a simple API with
@@ -164,5 +183,5 @@ import App from './exercises/01-Setup';
  * https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669
  *
  * Exercise code:
- * import App from './exercises/12-Routing';
+ * import App from './exercises/13-Routing';
  **/
