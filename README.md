@@ -70,20 +70,20 @@ Sending a value from component to component without using refs
 ### 11 - Mounting - unmounting
 React components have a lifecycle, and you are able to access specific phases of that lifecycle. This lesson will introduce mounting and unmounting of your React components.
 
-[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/11-Mounting-unmounting.js) - [Documentation](https://egghead.io/courses/react-component-lifecycle-mounting-b)asics
+[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/11-Mounting-unmounting.js) - [Documentation](https://egghead.io/courses/react-component-lifecycle-mounting-basics)
 
 
 ### 12 - Higer order components
 Higher order components will allow you to apply behaviors to multiple React components.
 
-[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/12-Higher-order-components.js) - [Documentation](https://egghead.io/courses/react-react-fundamentals-higher-orde)r-components-replaces-mixins
+[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/12-Higher-order-components.js) - [Documentation](https://egghead.io/courses/react-react-fundamentals-higher-order-components-replaces-mixins)
 
 
 ### 13 - Filter list
 In React, application data flows unidirectionally via the state and props objects, as opposed to the two-way binding of libraries like Angular. This means that, in a multi component heirachy, a common parent component should manage the state and pass it down the chain via props.
 Your state should be updated using the setState method to ensure that a UI refresh will occur, if necessary. The resulting values should be passed down to child components using attributes that are accessible in said children via this.props. See this example that shows this concept in practice
 
-[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/13-Filter-list.js) - [Documentation](https://scotch.io/tutorials/learning-react-getting-started-and-)concepts#unidirectional-data-flow
+[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/13-Filter-list.js) - [Documentation](https://scotch.io/tutorials/learning-react-getting-started-and-concepts#unidirectional-data-flow)
 
 
 ### 14 - Routing
@@ -92,7 +92,7 @@ React Router keeps your UI in sync with the URL. It has a simple API with powerf
 Dev dependencies:<br />
 Install "react-router" npm package as dependency: `npm i react-router --save`
 
-[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/14-Routing.js) - [Documentation](https://medium.com/@dabit3/beginner-s-guide-to-react-router-530)94349669
+[Example code](https://github.com/JoanClaret/react-fundamentals/blob/master/examples/14-Routing.js) - [Documentation](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669)
 
 
 
